@@ -1,7 +1,7 @@
 # A Simple Mock ChatGPT bot
 
 <p align="center">
-    <img src="./img/chatbot_preview.png" width="75%" height="75%" align="center">
+    <img src="./img/chatbot.png" width="75%" height="75%" align="center">
 </p>
 
 
