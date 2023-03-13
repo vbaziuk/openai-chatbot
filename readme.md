@@ -1,4 +1,4 @@
-# A Simple Mock ChatGPT bot
+# ChatGPT Bot Clone
 
 <p align="center">
     <img src="./img/chatbot.png" width="75%" height="75%" align="center">
